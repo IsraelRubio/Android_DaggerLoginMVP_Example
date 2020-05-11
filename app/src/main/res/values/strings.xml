@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">daggerLoginExample</string>
+    <string name="name_text">Name</string>
+    <string name="lastName_text">Last Name</string>
+    <string name="enter_text">Enter</string>
+</resources>
